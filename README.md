@@ -2,6 +2,6 @@
 ###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh wisnu
 
 ### Dibuat Oleh :
-##### Wisnu Adhie Wicaksono
+##### Sidik Alam Permana
 ### NIM
-##### G.231.20.0050
+##### G.231.20.0059
